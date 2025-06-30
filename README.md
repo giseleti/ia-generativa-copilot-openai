@@ -48,5 +48,5 @@ da maioria das profissões existentes, mas a área de TI é que guiará o quão 
 
 # Imagens 
 
-Acompanhe o passo a passo no link 
+Acompanhe o passo a passo no link https://github.com/giseleti/imagenslabopenia-copilot/tree/main 
 
